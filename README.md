@@ -1,10 +1,8 @@
----
 
-# ✅ **PROMPT  — VERSION OPTIMISÉE POUR GÉNÉRER L’APPLI TECHGAME**
+
+# ✅ PROMPT  — VERSION OPTIMISÉE POUR GÉNÉRER L’APPLI TECHGAME
 
 **Titre :** *Créer une application web mobile-first en React nommée TechGame (quiz tech multi‑niveaux)*
-
----
 
 ## 🎯 **Objectif général**
 
